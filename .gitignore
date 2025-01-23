@@ -1,0 +1,19 @@
+# Игнорировать виртуальное окружение Python
+.venv/
+venv/
+env/
+
+/HW_1/cache
+/HW_1/data_kion
+/HW_1/data_kion.zip
+
+# Игнорировать кэш Python
+__pycache__/
+*.pyc
+
+# Игнорировать конфиденциальные данные
+.env
+.secrets
+
+# Игнорировать логи
+*.log
